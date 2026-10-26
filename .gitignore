@@ -7,3 +7,10 @@ fast_xgboost_submission.csv
 sample_submission.csv
 train.csv
 test.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+*_submission.csv
